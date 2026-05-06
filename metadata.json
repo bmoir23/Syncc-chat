@@ -1,0 +1,6 @@
+{
+  "name": "AgentCore",
+  "description": "An advanced AI chat application featuring an agent router/deployer, powered by Langchain, Hugging Face inference, and Supabase vector persistence with MCP remote server support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
